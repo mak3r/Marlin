@@ -173,9 +173,9 @@
 
 // If you are using a preconfigured hotend then you can use one of the value sets by uncommenting it
 // Mak3rs Printrbot Simple 1312 with E3Dv6 Hotend
-    #define  DEFAULT_Kp 32.63
-    #define  DEFAULT_Ki 3.86
-    #define  DEFAULT_Kd 68.96
+    #define  DEFAULT_Kp 39.26
+    #define  DEFAULT_Ki 4.47
+    #define  DEFAULT_Kd 86.19
 
 // Ultimaker
 //    #define  DEFAULT_Kp 22.2
